@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+cpricelandscapes.com	TRUE	/	FALSE	1999999999	PHPSESSID	mxGPrZ7I5YIx1oB-1gkSCM4o4RCBDyj5hKYdqqmPK7tvZFrMmOkDbT6c32ftRrdC
+
